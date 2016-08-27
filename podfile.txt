@@ -1,0 +1,4 @@
+target 'ParseQue' do
+    use_frameworks!
+    pod 'Parse'
+end 
